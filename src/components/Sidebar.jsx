@@ -21,11 +21,6 @@ function Sidebar() {
             Analytics
           </Link>
         </li>
-        <li>
-          <Link to="/settings" className={linkClass("/settings")}>
-            Settings
-          </Link>
-        </li>
       </ul>
     </div>
   );
